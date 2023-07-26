@@ -1,3 +1,3 @@
 # DemoChangeLanguage
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://github.com/63Ashfaque/DemoChangeLanguage/blob/master/screenshort/Screenshot_20230726_170957.png)
