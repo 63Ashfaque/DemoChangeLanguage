@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">عرض تغيير اللغة</string>
+    <string name="profile">حساب تعريفي</string>
+    <string name="submit">يُقدِّم</string>
+    <string name="name">اسم</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="age">عمر</string>
+    <string name="language">تغيير اللغة</string>
+    <string name="dummytext">يعرض TextView نصًا للمستخدم ويسمح له اختياريًا بتحريره. يعد TextView محرر نصوص كامل ، ومع ذلك ، يتم تكوين الفئة الأساسية بحيث لا تسمح بالتحرير.</string>
+
+</resources>

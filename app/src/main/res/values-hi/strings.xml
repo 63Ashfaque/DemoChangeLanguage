@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">डेमो भाषा बदलें</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="submit">जमा करना</string>
+    <string name="name">नाम</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="age">आयु</string>
+    <string name="language">भाषा बदलें</string>
+    <string name="dummytext">एक टेक्स्टव्यू उपयोगकर्ता को टेक्स्ट प्रदर्शित करता है और वैकल्पिक रूप से उन्हें इसे संपादित करने की अनुमति देता है। टेक्स्टव्यू एक पूर्ण टेक्स्ट एडिटर है, हालाँकि, मूल वर्ग को संपादन की अनुमति न देने के लिए कॉन्फ़िगर किया गया है।</string>
+
+</resources>

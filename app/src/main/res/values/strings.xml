@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoChangeLanguage</string>
+    <string name="profile">Profile</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="age">Age</string>
+    <string name="language">Change Language</string>
+    <string name="dummytext">A TextView displays text to the user and optionally allows them to edit it. A TextView is a complete text editor, however the basic class is configured to not allow editing.</string>
+</resources>
